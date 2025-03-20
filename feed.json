@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "THE ARCHIVES",
+    "description": "",
+    "home_page_url": "https://augustenian.github.io/the-archives",
+    "feed_url": "https://augustenian.github.io/the-archives/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Erin"
+    },
+    "items": [
+        {
+            "id": "https://augustenian.github.io/the-archives/a.html",
+            "url": "https://augustenian.github.io/the-archives/a.html",
+            "title": "a",
+            "summary": "aaaaaaaaa",
+            "content_html": "\n  <p>\n    aaaaaaaaa\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-20T18:55:23-05:00",
+            "date_modified": "2025-03-20T18:55:23-05:00"
+        }
+    ]
+}

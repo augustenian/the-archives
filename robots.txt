@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://augustenian.github.io/the-archives/sitemap.xml
