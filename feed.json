@@ -12,16 +12,16 @@
         {
             "id": "https://augustenian.github.io/the-archives/a.html",
             "url": "https://augustenian.github.io/the-archives/a.html",
-            "title": "a",
-            "summary": "aaaaaaaaa",
-            "content_html": "\n  <p>\n    aaaaaaaaa\n  </p>\n\n  <p>\n    \n  </p>",
+            "title": "Welcome!",
+            "summary": "Hello, world! I'm Erin, the author of every written thing on this website, and I'm here to extend a hand in welcome! Whether&hellip;",
+            "content_html": "\n  <p>\n    Hello, world!\n<br>\n<br>I'm Erin, the author of every written thing on this website, and I'm here to extend a hand in welcome! Whether you came across this site from Google, found me on Twitter/X, or some secret third option, I hope that you find something to your liking here (even if the only thing that you like is the site itself).\n<br>\n<br>More about me can be found under the About tab.\n<br>\n<br>But the purpose of this post isn't to introduce myself, it's to introduce this place - home of multiple and infinite projects that are dear to me.\n<br>\n<br>This page - the home page - will be where a blog of sorts resides. I'll be using it to notify everyone of updates, and occasionally churn out a piece about writing-related thoughts and inspirations.\n<br>\n<br>I'll try to restrain the amount of activism that I display here, but given my own identity and the stories that I choose to tell, that may not hold.\n<br>\n<br>The \"What's Happening?\" page lets you know what stage I am on any current projects that I'm juggling. Information includes a short description of each goal, along with a progress bar showing how far along I am. Everything else is fairly self-explanatory - a \"Short Stories\" page for easy access to my short stories; a \"Novels\" page for easy access to my novels; and a \"Miscellaneous\" page for any stories written in a non-traditional format, along with any articles or story collections.\n<br>\n<br>And…that's that. Feel free to give my Twitter a follow for more updates both personal and professional! See you all later!<br>\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Erin"
             },
             "tags": [
             ],
             "date_published": "2025-03-20T18:55:23-05:00",
-            "date_modified": "2025-03-20T18:55:23-05:00"
+            "date_modified": "2025-03-20T20:10:45-05:00"
         }
     ]
 }
